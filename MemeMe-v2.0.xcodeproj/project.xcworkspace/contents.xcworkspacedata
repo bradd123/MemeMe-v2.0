@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MemeMe-v1.0.xcodeproj">
+      location = "self:/Users/brahma/Documents/Udacity/iOS Nanodegree/MemeMe-v2.0/MemeMe-v2.0.xcodeproj">
    </FileRef>
 </Workspace>
